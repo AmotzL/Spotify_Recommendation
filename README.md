@@ -23,3 +23,5 @@ A recommendation system of playlist according to your mode.
 
     Create coorilation maps between featuers of the same sentiment 
     and a histograms of the sentiment.
+
+Authors: Amotz Levy, Eran Kan.
